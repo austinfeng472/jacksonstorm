@@ -1,1 +1,1 @@
-{"Chick \"Thunder\" Hicks \ud83c\udfc6's server": true, "Triumph's Generic League": false, "testing server": true}
+{"Chick \"Thunder\" Hicks \ud83c\udfc6's server": true, "Triumph's Generic League": true, "testing server": true}
